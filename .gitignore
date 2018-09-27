@@ -1,3 +1,6 @@
 *.cache
 .vs/
 .DS_Store
+bin/
+obj/
+*.txt
