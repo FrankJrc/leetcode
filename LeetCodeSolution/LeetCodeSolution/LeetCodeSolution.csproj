@@ -37,6 +37,7 @@
     <Compile Include="Solutions\1_TwoSum.cs" />
     <Compile Include="Solutions\2_AddTwoNumbers.cs" />
     <Compile Include="Solutions\3_LongestSubStringNoRepeat.cs" />
+    <Compile Include="Solutions\4_LongestPalindrome.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Solutions\" />
