@@ -41,6 +41,7 @@
     <Compile Include="Solutions\6_ZigZag.cs" />
     <Compile Include="Solutions\7_ReverseInt.cs" />
     <Compile Include="Solutions\8_StringToInt.cs" />
+    <Compile Include="Solutions\9_IsPalindromeNumber.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Solutions\" />
