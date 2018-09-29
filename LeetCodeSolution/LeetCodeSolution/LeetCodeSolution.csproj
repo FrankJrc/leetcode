@@ -39,6 +39,8 @@
     <Compile Include="Solutions\3_LongestSubStringNoRepeat.cs" />
     <Compile Include="Solutions\5_LongestPalindrome.cs" />
     <Compile Include="Solutions\6_ZigZag.cs" />
+    <Compile Include="Solutions\7_ReverseInt.cs" />
+    <Compile Include="Solutions\8_StringToInt.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Solutions\" />
