@@ -8,7 +8,7 @@ namespace LeetCodeSolution.Solutions
      * C can be placed before D (500) and M (1000) to make 400 and 900.
 
     */
-    public class RomanToInt
+    public class RomanToIntSln
     {
         public int RomanToInt(string s)
         {
@@ -66,7 +66,7 @@ namespace LeetCodeSolution.Solutions
                     if (i + 1 < s.Length)
                     {
                         if (s[i + 1] == 'V')
-                        {
+                          {
                             res += 4;
                             i++;
                             continue;

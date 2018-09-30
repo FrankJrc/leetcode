@@ -1,7 +1,7 @@
 ﻿using System;
 namespace LeetCodeSolution.Solutions
 {
-    public class MaxArea
+    public class MaxAreaSln
     {
         public int MaxArea(int[] height)
         {
