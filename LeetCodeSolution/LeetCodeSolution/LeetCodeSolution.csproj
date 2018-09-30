@@ -42,6 +42,7 @@
     <Compile Include="Solutions\7_ReverseInt.cs" />
     <Compile Include="Solutions\8_StringToInt.cs" />
     <Compile Include="Solutions\9_IsPalindromeNumber.cs" />
+    <Compile Include="Solutions\11_MaxArea.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Solutions\" />
