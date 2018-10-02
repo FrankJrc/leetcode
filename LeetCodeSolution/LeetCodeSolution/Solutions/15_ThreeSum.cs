@@ -35,13 +35,14 @@ namespace LeetCodeSolution.Solutions
                     reducedLen++;
                 }
             }
+            Dictionary<int, int> tmp = new Dictionary<int, int>();
             for (int i = 0; i < reducedLen; ++i)
             {
                 var count = numberCounts[nums[i]];
                 if (count <= 0)
                     continue;
                 numberCounts[nums[i]] = count - 1;
-                Dictionary<int, int> tmp = new Dictionary<int, int>();
+                tmp.Clear();
                 foreach (var kvp in numberCounts)
                     tmp[kvp.Key] = kvp.Value;
                 for (int j = i + 1; j < reducedLen; ++j)
