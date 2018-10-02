@@ -45,6 +45,7 @@
     <Compile Include="Solutions\11_MaxArea.cs" />
     <Compile Include="Solutions\13_RomanToInt.cs" />
     <Compile Include="Solutions\12_IntToRoman.cs" />
+    <Compile Include="Solutions\15_ThreeSum.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Solutions\" />
