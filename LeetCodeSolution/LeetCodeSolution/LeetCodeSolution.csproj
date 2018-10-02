@@ -47,6 +47,7 @@
     <Compile Include="Solutions\12_IntToRoman.cs" />
     <Compile Include="Solutions\15_ThreeSum.cs" />
     <Compile Include="Solutions\14_LongestCommonPrefixSln.cs" />
+    <Compile Include="Solutions\21_MergeTwoSortedListsSln.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Solutions\" />

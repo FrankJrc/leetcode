@@ -1,16 +1,16 @@
 ﻿using System;
 namespace LeetCodeSolution.Solutions
 {
-    public class ListNode
-    {
-        public int val;
-        public ListNode next;
-        public ListNode(int x) { val = x; }
-    }
+
 
     public class AddTwoNumbers
     {
-        
+        public class ListNode
+        {
+            public int val;
+            public ListNode next;
+            public ListNode(int x) { val = x; }
+        }
 
         public ListNode Solve(ListNode l1, ListNode l2) 
         {
