@@ -48,6 +48,8 @@
     <Compile Include="Solutions\15_ThreeSum.cs" />
     <Compile Include="Solutions\14_LongestCommonPrefixSln.cs" />
     <Compile Include="Solutions\21_MergeTwoSortedListsSln.cs" />
+    <Compile Include="Solutions\16_ThreeSumClosest.cs" />
+    <Compile Include="Solutions\17_LetterCombinationsOnPhone.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Solutions\" />
