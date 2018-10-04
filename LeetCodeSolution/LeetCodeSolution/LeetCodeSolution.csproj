@@ -50,6 +50,7 @@
     <Compile Include="Solutions\21_MergeTwoSortedListsSln.cs" />
     <Compile Include="Solutions\16_ThreeSumClosest.cs" />
     <Compile Include="Solutions\17_LetterCombinationsOnPhone.cs" />
+    <Compile Include="Solutions\20_ValidParentheses.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Solutions\" />
