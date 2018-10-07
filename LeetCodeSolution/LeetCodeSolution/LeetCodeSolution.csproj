@@ -52,6 +52,7 @@
     <Compile Include="Solutions\17_LetterCombinationsOnPhone.cs" />
     <Compile Include="Solutions\20_ValidParentheses.cs" />
     <Compile Include="Solutions\19_RemoveNthNode.cs" />
+    <Compile Include="Solutions\22_GenerateParenthesis.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Solutions\" />
