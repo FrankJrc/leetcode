@@ -53,6 +53,8 @@
     <Compile Include="Solutions\20_ValidParentheses.cs" />
     <Compile Include="Solutions\19_RemoveNthNode.cs" />
     <Compile Include="Solutions\22_GenerateParenthesis.cs" />
+    <Compile Include="Solutions\24_SwapNodesInPairSln.cs" />
+    <Compile Include="Solutions\32_ValidLongestParentheses.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Solutions\" />
